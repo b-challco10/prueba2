@@ -13,4 +13,4 @@ export default function Saludo({ nombre }: Props) {
 const styles = StyleSheet.create({
   caja: { padding: 16, backgroundColor: "#eee", borderRadius: 8 },
   texto: { fontSize: 18 },
-});
+}); // probando rama
